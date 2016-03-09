@@ -2,6 +2,8 @@
 
 .site-header {
   padding: .1em;
+  background:#6c9d8e;
+  color: #ffffff;
 }
 
 .main-nav {
@@ -15,6 +17,7 @@
   font-size: 1.5em;
   padding: .5em .2em;
   border-bottom: 1px solid #ccc;
+  list-style: none;
 }
 
 /* TODO: Style the filters so they look good on small screens:
@@ -25,6 +28,7 @@
 }
 
 #filters select {
+  width: 100%;
 
 }
 
