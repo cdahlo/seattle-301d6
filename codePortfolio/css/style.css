@@ -1,0 +1,28 @@
+body {
+  background: #0099ff;
+  text: white;
+}
+
+.scroll {
+  color: white;
+
+}
+
+.projects {
+  color: white;
+}
+
+#name {
+  color: purple;
+}
+
+#follow {
+  color: purple;
+}
+
+#social {
+  color: white;
+}
+#email {
+  color: white;
+}
